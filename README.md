@@ -1,25 +1,16 @@
-<!-- 
-Nombre del proyecto
--->
-# codexlore
-<!-- 
-Definición del problema: ¿qué problema o necesidad específica busca resolver esta aplicación?
--->
-A web application for the management of narrative elements of a story, such as items, characters, places, envents, timeline, relations
+# Nombre del proyecto: Codexlore
 
-## ¿What is it good for?
-<!-- 
-Usuario objetivo (User Persona): ¿quién utilizará la aplicación principalmente? (Ejemplo: estudiantes universitarios, dueños de mascotas, administradores de tareas)
--->
-It helps writers, narrators, game designers and players building, documenting and maintaining the knowledgebase of their fictional universe.
+## Definición del problema: ¿Qué problema o necesidad específica busca resolver esta aplicación?
+Una aplicación web para el manejo de elementos narrativos de una historia, tales como objetos, personajes, lugares, sucesos, línea de tiempo, relaciones, entre otros.
 
-<!-- 
-Funcionalidades mínimas (MVP - Producto Mínimo viable):
-Define las 3 características indispensables que debe tener tu aplicación para funcionar en la primera versión.
--->
-## ¿how can you use codexlore?
-With codexlore you can:
-- Create a knowledgebase with the main elements of your chronicles and universe (items, characters, places, envents,...).
-- Create a timeline for the events that happens in your story.
-- The knowledgebase must be able to hold both images and descriptions (text).
-- The events timeline and the elements must be related, so you must be able to create a timeline for a particular character. 
+## Usuario objetivo (User Persona): ¿quién utilizará la aplicación principalmente? (Ejemplo: estudiantes universitarios, dueños de mascotas, administradores de tareas)
+Ayuda a escritores, narradores, diseñadores de juegos y jugadores a construir, documentar y mantener la base de conocimientos de su universo ficticio.
+
+## Funcionalidades mínimas (MVP - Producto Mínimo viable):
+Con codexlore puedes:
+- Crear y mostrar una base de conocimiento con los elementos principales de tus crónicas y universo (elementos, personajes, lugares, eventos, etc...).
+  - UI que muestre cada tipo de elemento y sus atributos.
+  - Buscador un elemento en particular.
+- Crea una línea de tiempo para los eventos que suceden en tu historia. Los eventos son lo que relaciona todos los demás elementos. 
+- La base de conocimiento debe poder contener tanto imágenes como descripciones (texto).
+- La línea de tiempo de los eventos y los elementos deben estar relacionados, por lo que debes poder crear una línea de tiempo para un personaje en particular o un ítem en particular, etc...
