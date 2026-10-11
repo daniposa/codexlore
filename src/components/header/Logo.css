@@ -1,8 +1,4 @@
-Logo {
-    display: flex;
-}
-
-img {
-  width: 200px;
+.Logo-img {
+  width: 150px;
   height: 100px;
 }

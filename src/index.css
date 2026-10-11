@@ -2,4 +2,9 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: 'Archivo Black', sans-serif;
+  background-color: #FFEC01;
+}
+
+#root{
+  font-family: 'Archivo Black', sans-serif;
 }
